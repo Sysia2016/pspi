@@ -22,7 +22,7 @@ Nasze projekty:
 1. [Kasia Idziak](https://github.com/idzionek).
 1. [D Lachowicz](https://github.com/Alphacentauri01).
 1. [Michał Lewandowski](https://github.com/lewand16).
-1. SL Majewska
+1. [SL Majewska] (https://github.com/Sysia2016).
 1. [Jacek Mankiewicz](http://github.com/JacekMMC/), [Repozytorium](https://github.com/JacekMMC/zadanie-1).
 1. [Elżbieta Mariola Ostrowska-Janczak](https://github.com/eleczka).
 1. [Maria Pieper](https://github.com/borowianka).
